@@ -1,0 +1,21 @@
+# Virtual environments
+day3/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Cloned reference repos
+antigravity-skills/
+
+# ADK session data
+app/.adk/
+
+# Empty placeholder folders
+lab1-first-skill/
+lab2-google-skills/
+
+# macOS
+.DS_Store
